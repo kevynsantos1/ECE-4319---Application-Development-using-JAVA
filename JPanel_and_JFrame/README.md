@@ -1,0 +1,1 @@
+In this code I learned how to use JFrame to use windows for the application. I learned how to set certain parameters to it as well. I also learned how to use JPanel so that I can make the actual panel look different or add certain characteristics to it.
